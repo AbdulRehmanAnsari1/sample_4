@@ -215,7 +215,7 @@
 </template>
 
 <script>
-import DangerousHTML from 'dangerous-html/dist/vue/lib.js'
+import DangerousHTML from 'dangerous-html/vue'
 
 export default {
   name: 'Hero17',

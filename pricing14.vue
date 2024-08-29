@@ -28,9 +28,9 @@
                 <p class="pricing14-text202 thq-body-large">
                   <span>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    <span v-html="rawioe5"></span>
+                    <span v-html="rawzh6a"></span>
                   </span>
-                  <span><span v-html="rawi9oy"></span></span>
+                  <span><span v-html="rawodnl"></span></span>
                 </p>
               </div>
             </slot>
@@ -726,10 +726,10 @@ export default {
   data() {
     return {
       isMonthly: true,
-      rawm13l: ' ',
-      raw5an9: ' ',
-      rawioe5: ' ',
-      rawi9oy: ' ',
+      raw0ww7: ' ',
+      rawufjl: ' ',
+      rawzh6a: ' ',
+      rawodnl: ' ',
     }
   },
 }
